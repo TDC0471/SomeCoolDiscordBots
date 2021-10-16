@@ -1,0 +1,12 @@
+to do:
+custom emoji adder
+bad word censor
+make wargame theam for the ;game help
+make a joke game named mutually assured destruction
+make snipe cmod
+true/false
+module.exports
+
+<insert crap i have at home>
+
+

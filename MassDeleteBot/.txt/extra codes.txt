@@ -1,0 +1,4 @@
+const fcut = 2 + (args[1]).length + 1;
+const lcut = (args[3].length);
+
+.slice(fcut , lcut);
